@@ -103,4 +103,12 @@ h1 {
   object-fit: cover;
   object-position: top;
 }
+.more {
+  text-align: center;
+  padding-top: 5em;
+}
 
+.more .btn {
+font-size: 20px;
+padding: 0.5em 1em;
+}
